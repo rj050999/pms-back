@@ -1,0 +1,20 @@
+{
+  "name": "pms-b-pms-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rj050999/pms-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rj050999/pms-back/issues"
+  },
+  "homepage": "https://github.com/rj050999/pms-back#readme",
+  "description": ""
+}
