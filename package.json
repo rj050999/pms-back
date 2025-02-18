@@ -16,5 +16,8 @@
     "url": "https://github.com/rj050999/pms-back/issues"
   },
   "homepage": "https://github.com/rj050999/pms-back#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
